@@ -20,7 +20,9 @@ Thank you to thr whole team of bootcampspot for organising the front-end develop
 
 ![FireShot Capture 002 - Prework study guide - ](https://user-images.githubusercontent.com/113493756/209056296-964a0b05-2eac-49dd-9d32-f40f7985590a.png)
 
+## Live URL
 
+https://aartimehar.github.io/pre-work-study-repositary/
 
 
 ## License
